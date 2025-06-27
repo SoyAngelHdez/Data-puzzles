@@ -17,6 +17,6 @@ After getting these two formulas we only need to use random values and we will b
 
 After doing it I thought making a visual representation would be the best way to understanding the proces that we are going through.
 
-![Simulation of 100 spiders](/100_spiders.png)
-![Simulation of 1000 spiders](/1000_spiders.png)
-![Simulation of 10000 spiders](/10000_spiders.png)
+![Simulation of 100 spiders](./100_spiders.png)
+![Simulation of 1000 spiders](./1000_spiders.png)
+![Simulation of 10000 spiders](./10000_spiders.png)
